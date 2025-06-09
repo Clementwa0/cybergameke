@@ -1,0 +1,6 @@
+[★☆☆] Ransomware - Recovery 2
+Points: 3
+The producer did not upgrade their infrastructure, 
+and their servers were encrypted again. The attackers 
+used slightly modified malware, but it should not be 
+too hard to decrypt.

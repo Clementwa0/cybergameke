@@ -1,0 +1,3 @@
+[★★☆] Short Crypto Tales - MorizOtis
+Points: 3
+EN: Moriz Otis, cryptographer and CERTcoin tycoon, sent coins to a phishing awareness hotline, a jar of entropy, and even himself. But when he tried one final mega-transfer and locked his flag with it, something went horribly wrong. Now the flag’s encrypted, Moriz is panicking, and it’s your job to fix the mess.

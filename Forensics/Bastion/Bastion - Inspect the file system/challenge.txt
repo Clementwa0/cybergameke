@@ -1,0 +1,3 @@
+Bastion - Inspect the file system
+Points: 3
+EN: Based on your findings, continue your analysis with the docker layer of the docker container.

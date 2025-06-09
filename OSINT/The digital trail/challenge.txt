@@ -1,0 +1,5 @@
+ The digital trail - The tip
+Points: 3
+EN: We've received a tip about a suspicious website promoting a privacy-focused browser extension. The website seems legitimate, but you should check it thoroughly. Sometimes the most interesting things are hidden in plain sight.
+
+https://alexmercer-dev.github.io/datashield-web/
