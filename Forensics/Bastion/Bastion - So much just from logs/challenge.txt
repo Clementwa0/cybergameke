@@ -1,3 +1,5 @@
 Bastion - So much just from logs
 Points: 3
-EN: A routine inspection of authentication logs reveals an overwhelming pattern of suspicious access attempts to a dockerized SSH bastion server. Inspect the logs and look for any unordinary activity.
+EN: A routine inspection of authentication logs reveals an 
+overwhelming pattern of suspicious access attempts to a dockerized
+ SSH bastion server. Inspect the logs and look for any unordinary activity.
