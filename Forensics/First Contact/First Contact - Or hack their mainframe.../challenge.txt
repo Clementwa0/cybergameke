@@ -1,5 +1,8 @@
 First Contact - Or hack their mainframe...
 Points: 1
-EN: Even though we contracted the best javelin thrower in the whole world, the alien spaceship seems to have a force field. Switching to plan B - we must hack their mainframe. We know their computer would shut down if we pass the right keyword. However, the keyword is verified by a regular expression (regex). Can you find the correct string?
+EN: Even though we contracted the best javelin thrower in the whole world, 
+the alien spaceship seems to have a force field. Switching to plan B - 
+we must hack their mainframe. We know their computer would shut down if we pass the right keyword. 
+However, the keyword is verified by a regular expression (regex). Can you find the correct string?
 
 ^(?:S[K])-(?:C(?:E|E{0})R)(?:T){v(?:3)r[y]_[5]7r(?:4)n6(?:3)_r3(?:6)3x}$
